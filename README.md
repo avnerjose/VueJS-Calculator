@@ -1,3 +1,5 @@
+# VueJS-Calculator
+
 # calculator
 
 ## Project setup
