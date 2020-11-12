@@ -2,7 +2,7 @@
 
 This project is a calculator made with VueJS from Cod3r's Udemy course.
 
-
+![Project Picture](https://github.com/avnerjose/VueJS-Calculator/blob/main/project-picture.png) 
 
 ## Project setup
 ```
